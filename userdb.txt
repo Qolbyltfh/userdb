@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dan Hwal",
+      "description: "test1",
+      "status": "Active
+    },
+    {
+      "id": 2,
+      "name": "Dan Oh",
+      "description: "test2",
+      "status": "Active
+    }
+  ]
+}
